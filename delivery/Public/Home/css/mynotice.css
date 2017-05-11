@@ -1,0 +1,23 @@
+.topbg{
+    text-align: center;
+}
+.main{
+    margin: 0 auto;
+    width:860px;
+    height:750px;
+    font-size: 20px;
+    font-weight: bold;
+    background-image: url(../img/mainbg.jpg);
+}
+.main p{
+	margin-left: 80px;
+	margin-bottom: 50px;
+}
+.contact{
+	float:right;
+	margin-right:50px;
+	margin-top:80px;
+}
+.contact p{
+	margin-bottom: 30px;
+}
